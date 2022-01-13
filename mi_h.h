@@ -1,0 +1,1 @@
+#define MAXCADENA 52
